@@ -14,7 +14,7 @@ Código spaggeti, js file de 13k lineas.
 - Esto obligaba a que el que toca el fichero... era el último que había tocado el fichero. Esto crea cuellos de botella
 - Esto implica que cambiar lo que sea, hace que la aplicación explote.
 
-### Conclusiones:
+### Conclusiones
 - El negocio no puede parar
 - El SEO es crítico
 - Estás en fase de desarrollo en un refactor de backend.
@@ -41,7 +41,7 @@ Cuando usas una feature, sabes exactamente en que parte va tu código, o sabes e
 - Por ejemplo: cuando usas SSR, no puedes acceder a localstorage directamente, tendrás que tener un repository en backend.
 - Hay que definir caos de uso. Si no te sientas con alguien de producto, ves que pasa y le das un nombre, es imposible. Esto añade semántica a la app.
 
-## Tu lógica de negocio no tiene estado.
+## Tu lógica de negocio no tiene estado
 - No puede tener estado
 - Tiene que estar completamente desacoplado de la interfaz.
 
@@ -58,7 +58,7 @@ Cada capa debería ser un paquete aislado de NPM.
 Por definición se debería desarrollar en componentes aislados. Se pueden instalar por separado.
 Usar concepto de mono-repo, multi paquete.
 
-## SSR Opensource y Opcional.
+## SSR Opensource y Opcional
 Solo existe para el SEO
 Mejora el rendimiento de una SPA, usando un SSR con hydration.
 

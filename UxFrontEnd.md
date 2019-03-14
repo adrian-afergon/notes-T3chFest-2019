@@ -33,3 +33,5 @@ Equipos multidisciplinares. Romper con separación por departamentos.
 ## Google es el principal defensor de este rol
 
 *Propuesta*: estar un día entero con una persona del otro lado, viendo que está haciendo.
+
+@marinaaisa

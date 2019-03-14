@@ -31,3 +31,5 @@ Equipos multidisciplinares. Romper con separación por departamentos.
 ## Los estados de loading son importantes en el diseño
 
 ## Google es el principal defensor de este rol
+
+*Propuesta*: estar un día entero con una persona del otro lado, viendo que está haciendo.
